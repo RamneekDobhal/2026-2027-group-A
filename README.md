@@ -1,3 +1,6 @@
+# Java Book Program
+# This program demonstrates a Book object with a title, author, page count and status.
+
 public class Main {
     public static void main(String[] args) {
 
@@ -14,4 +17,3 @@ public class Main {
         System.out.println("The status of this book is " + firstBook.status);
     }
 }
-
